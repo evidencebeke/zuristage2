@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  text-align: justify;
 }
 * {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -20,6 +19,7 @@ body {
   color: aliceblue;
   margin-top: 200px;
   height: 100%;
+  text-align: justify;
 }
 .my-picture {
   object-fit: contain;
@@ -38,6 +38,7 @@ body {
   flex-direction: row;
   background: whitesmoke;
   width: 100%;
+  text-align: justify;
 }
 /* .background-skill > h3,
 h2,
